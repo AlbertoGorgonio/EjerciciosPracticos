@@ -1,0 +1,5 @@
+GET /tareas/ – Listar todas las tareas
+POST /tareas/ – Crear una nueva tarea
+GET /tareas/{id}/ – Obtener una tarea por ID
+PUT /tareas/{id}/ – Actualizar una tarea
+DELETE /tareas/{id}/ – Eliminar una tarea.
